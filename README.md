@@ -1,3 +1,4 @@
+![Screenshot](print.png)
 A recipe list made with angular course
 
 # CourseProjectApp
